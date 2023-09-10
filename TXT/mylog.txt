@@ -13,4 +13,18 @@ ZCZC W00 50 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W00 150 L81 Listening: Radio, Music, etc.
 ZCZC W00 45 L82 Reading Book (paper or online)
 ZCZC W00 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L03 GitHub related
+ZCZC W01 20 L04 GitHub Pages related
+ZCZC W01 20 L05 Quiz related including studying
+ZCZC W01 70 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 480 L11 Assignment #01
+ZCZC W01 50 L31 VirtualBox: setup
+ZCZC W01 20 L41 TXT/mylog.txt related.
+ZCZC W01 20 L62 Install Virtual Debian Guest
+ZCZC W01 30 L61 Install Virtual Box
+ZCZC W01 20 L64 Helping a friend (OS related problem)
+ZCZC W01 150 L70 Studying for other courses.
+ZCZC W01 300 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 110 L81 Listening: Radio, Music, etc.
