@@ -13,3 +13,4 @@ ZCZC W00 50 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W00 150 L81 Listening: Radio, Music, etc.
 ZCZC W00 45 L82 Reading Book (paper or online)
 ZCZC W00 30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 480 L11 Assignment #01
