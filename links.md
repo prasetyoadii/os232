@@ -3,7 +3,14 @@ permalink: LINKS/
 ---
 
 # LINKS
+<hr>
 
+### Week 2
+* [Protection and Security | operating system](https://www.youtube.com/watch?v=-TwXevB9zp8)--- 
+This video presents an engaging explanation of various system threats and protective measures within the operating system, using PowerPoint slides to deliver the content.
+<hr>
+
+### Week 1
 * [What is an Operating System (OS)?](https://www.youtube.com/watch?v=RhHMgkUdhdk) --- 
   This video explains the concept and the purpose of an operating system. It inspired me to explore the operating system course further this semester.
   
@@ -19,4 +26,4 @@ This video provides a brief and concise guide on using the vi text editor, cover
 * [How to write a bash script](https://www.youtube.com/watch?v=F-gskSl4pwQ) ---
 This video offers an introduction to bash scripting, covering topics like displaying output and using variables. The video is interesting because it's beginner-friendly.
 <br>
-<hr>
+
