@@ -3,10 +3,14 @@ permalink: LINKS/
 ---
 
 # LINKS
-<hr>
 
+### Week 3
+* [Operating System Concepts](https://www.os-book.com/OS10/slide-dir/) ---
+This website is a compilation of slides that contain information about operating system learning. This website is the place where I learn to prepare for quizzes.
+ <hr>
+ 
 ### Week 2
-* [Protection and Security | operating system](https://www.youtube.com/watch?v=-TwXevB9zp8)--- 
+* [Protection and Security | operating system](https://www.youtube.com/watch?v=-TwXevB9zp8) --- 
 This video presents an engaging explanation of various system threats and protective measures within the operating system, using PowerPoint slides to deliver the content.
 <hr>
 
