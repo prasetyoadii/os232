@@ -4,6 +4,11 @@ permalink: LINKS/
 
 # LINKS
 
+### Week 4
+* [Week05: Addressing, Shared Lib, and Pointers [Recording]](https://www.youtube.com/watch?v=aQgyZGd1MhY) ---
+This video provides a detailed overview of memory addressing, using shared libraries in programming, and understanding and applying pointers.
+<hr>
+
 ### Week 3
 * [Operating System Concepts](https://www.os-book.com/OS10/slide-dir/) ---
 This website is a compilation of slides that contain information about operating system learning. This website is the place where I learn to prepare for quizzes.
