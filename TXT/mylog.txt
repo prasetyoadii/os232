@@ -59,3 +59,17 @@ ZCZC W03 50 L42 TXT/mypubkey.txt related. See also L27.
 ZCZC W03 50 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 50 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 50 L45 TXT/SHA256SUM related
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 50 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 40 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 120 L07 Demo related
+ZCZC W04 100 L13 Assignment #04
+ZCZC W04 120 L25 C-language including Make.
+ZCZC W04 60 L23 Bash, Regex, SED, AWK.
+ZCZC W04 60 L24 Scripting in general.
+ZCZC W04 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W04 60 L40 TXT/ related in general.
+ZCZC W04 40 L41 TXT/mylog.txt related.
+ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 40 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 40 L45 TXT/SHA256SUM related
