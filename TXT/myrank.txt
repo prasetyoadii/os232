@@ -1,13 +1,13 @@
 # WEEKLY 3 of 10 RANKS
-ZCZC W02 rzapriono
-ZCZC W02 RafGhan 
-ZCZC W02 RafliMahesa
-ZCZC W03 FarrellMuhammadHanau
-ZCZC W03 vinamyrnauli 
-ZCZC W03 dimashn04
-ZCZC W04 Akmal76
-ZCZC W04 fathonidf
-ZCZC W04 fahmi-ramadhan 
 ZCZC W05 RafliMahesa
 ZCZC W05 adi-himawan
 ZCZC W05 BimantoroW
+ZCZC W04 Akmal76
+ZCZC W04 fathonidf
+ZCZC W04 fahmi-ramadhan 
+ZCZC W03 FarrellMuhammadHanau
+ZCZC W03 vinamyrnauli 
+ZCZC W03 dimashn04
+ZCZC W02 rzapriono
+ZCZC W02 RafGhan 
+ZCZC W02 RafliMahesa
