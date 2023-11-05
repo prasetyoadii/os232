@@ -75,7 +75,7 @@ ZCZC W04 40 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W04 40 L45 TXT/SHA256SUM related
 ZCZC W05 30 L01 SCELE/Discord related
 ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
-ZCZC W05 700 L05 Quiz related including studying
+ZCZC W05 70 L05 Quiz related including studying
 ZCZC W05 100 L07 Demo related
 ZCZC W05 120 L15 Assignment #05
 ZCZC W05 70 L22 Linux CLI including tar, etc.
@@ -92,3 +92,26 @@ ZCZC W05 65 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W05 30 L45 TXT/SHA256SUM relate
 ZCZC W05 40 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W05 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 180 L16 Assignment #06
+ZCZC W06 120 L07 Demo related
+ZCZC W06 120 L25 C-language including Make.
+ZCZC W06 60 L23 Bash, Regex, SED, AWK.
+ZCZC W06 60 L24 Scripting in general.
+ZCZC W06 100 L05 Quiz related including studying
+ZCZC W06 100 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W06 70 L40 TXT/ related in general.
+ZCZC W06 70 L41 TXT/mylog.txt related.
+ZCZC W06 70 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W06 70 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 70 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 70 L45 TXT/SHA256SUM relate
+ZCZC W06 70 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 120 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W06 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 60 L22 Linux CLI including tar, etc.
+ZCZC W06 50 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 40 L45 TXT/SHA256SUM related
+ZCZC W06 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 160 L81 Listening: Radio, Music, etc.
