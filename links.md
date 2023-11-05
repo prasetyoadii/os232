@@ -3,6 +3,10 @@ permalink: LINKS/
 ---
 
 # LINKS
+### Week 6
+* [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
+This page contains documentation about concurrency's concept theory with some straightforward explanations.
+
 ### Week 5
 * [non-uniform memory access (NUMA)](https://www.techtarget.com/whatis/definition/NUMA-non-uniform-memory-access) --- 
 This article discusses the concept of Non-Uniform Memory Access (NUMA) in operating systems, particularly in multiprocessing systems. NUMA facilitates local memory sharing among microprocessors, intending to improve system performance and scalability. The explanation covers the functioning of NUMA, emphasizing its benefits and drawbacks in the context of operating systems.
