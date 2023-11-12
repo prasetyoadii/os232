@@ -115,3 +115,29 @@ ZCZC W06 40 L45 TXT/SHA256SUM related
 ZCZC W06 180 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W06 180 L02 CLASSROOM/ZOOM meetings related
 ZCZC W06 160 L81 Listening: Radio, Music, etc.
+ZCZC W07 180 L17 Assignment #07
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 120 L07 Demo related
+ZCZC W07 120 L25 C-language including Make.
+ZCZC W07 50 L23 Bash, Regex, SED, AWK.
+ZCZC W07 50 L24 Scripting in general.
+ZCZC W07 120 L05 Quiz related including studying
+ZCZC W07 180 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W07 70 L40 TXT/ related in general.
+ZCZC W07 70 L41 TXT/mylog.txt related.
+ZCZC W07 70 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W07 70 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 70 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W07 70 L45 TXT/SHA256SUM relate
+ZCZC W07 70 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W07 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W07 60 L22 Linux CLI including tar, etc.
+ZCZC W07 50 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 45 L45 TXT/SHA256SUM related
+ZCZC W07 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W07 180 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 150 L81 Listening: Radio, Music, etc.
+ZCZC W07 45 L82 Reading Book (paper or online)
+ZCZC W07 30 L87 Breakfast/Lunch/Dinner/Snake
