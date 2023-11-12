@@ -3,6 +3,9 @@ permalink: LINKS/
 ---
 
 # LINKS
+### Week 7
+* [Semaphore Vs. Mutex - A Clear Understanding](https://www.youtube.com/watch?v=8wcuLCvMmF8) --- This video elucidates the fundamental distinctions between Semaphore and Mutex concepts.
+
 ### Week 6
 * [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/) ---
 This page contains documentation about concurrency's concept theory with some straightforward explanations.
