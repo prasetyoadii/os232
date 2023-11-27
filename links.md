@@ -4,7 +4,7 @@ permalink: LINKS/
 
 # LINKS
 ### Week 9
-*[9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) --- The video provides a step-by-step tutorial on establishing a functional system environment, detailing the process of entering Chroot, configuring ownership, preparing kernel file systems, and creating directories and essential files.
+* [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) --- The video provides a step-by-step tutorial on establishing a functional system environment, detailing the process of entering Chroot, configuring ownership, preparing kernel file systems, and creating directories and essential files.
 
 ### Week 8
 * [How to build linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZd) --- This playlist demonstrate every step on how to do linux from scratch from the first link.
