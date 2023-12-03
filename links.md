@@ -3,8 +3,15 @@ permalink: LINKS/
 ---
 
 # LINKS
+### Week 10
+* [10. Chapter 8: 8.1 to 8.5 Installing Basic System Software - How to build Linux From Scratch (LFS) 1](https://www.youtube.com/watch?v=WXAV29qd6VI&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=10) --- The video showcases the sequential process of constructing a Linux From Scratch (LFS) system, emphasizing the installation of fundamental software components. It navigates through package management discussions and the installation of specific packages such as man-pages 6.05.01, Iana-Etc dated August 10, 2023, and Glibc version 2.38, providing a visual time-lapse of each step within the LFS environment's setup.
+
+<hr>
+
 ### Week 9
 * [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) --- The video provides a step-by-step tutorial on establishing a functional system environment, detailing the process of entering Chroot, configuring ownership, preparing kernel file systems, and creating directories and essential files.
+
+<hr>
 
 ### Week 8
 * [How to build linux From Scratch 11.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZd) --- This playlist demonstrate every step on how to do linux from scratch from the first link.
